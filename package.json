@@ -1,0 +1,26 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "Node.js RESTful API for orders and shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs restful api "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uvagopisrinivas/rest-shop.git"
+  },
+  "keywords": [
+    "rest",
+    "shop"
+  ],
+  "author": "Uva Gopi Srinivas Kondisetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uvagopisrinivas/rest-shop/issues"
+  },
+  "homepage": "https://github.com/uvagopisrinivas/rest-shop#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
