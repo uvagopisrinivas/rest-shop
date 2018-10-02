@@ -1,7 +1,7 @@
 const express = require('express');
 /* 
 * Router is a subPackage that Express package ships with
-* Handle different routes reaching diffrent endpoints(get, post, put, patch)
+* Handle different routes reaching diffrent endpoints
 */
 const router = express.Router();
 router.get('/', (req, res, next) => {
